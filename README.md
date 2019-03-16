@@ -1,6 +1,6 @@
-# Physical computing tutorial-Programmable NeoPixel RGB LED ring
+# Physical computing tutorial - Programmable NeoPixel RGB LED ring
 
-Portable balcony, terrace, garden or restaurant lantern set-up, based on an **11.1V rechargeable Li-Ion battery**
+Variable effect, indicator or interface set-up, based on the **FastLED Arduino library**
 
 ### Result
 
