@@ -1,6 +1,6 @@
-# Physical computing LED tutorial - Programmable NeoPixel RGB LED ring
+# Physical computing LED tutorial - Programmable NeoPixel RGB LED ring using FastLED
 
-Variable effect, indicator or interface set-up, based on the **FastLED Arduino library**
+Variable effect for indicators or interfaces. How to control animations on a NeoPixel RGB LED ring using the FastLED Arduino library
 
 ### Result
 
