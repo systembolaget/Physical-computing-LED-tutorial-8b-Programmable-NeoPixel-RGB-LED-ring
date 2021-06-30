@@ -2,9 +2,11 @@
 
 Variable effect for indicators or interfaces. How to control animations on a NeoPixel RGB LED ring using the FastLED Arduino library
 
-### Result
+### Setup
 
-![](Assets/8b%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/8b%20result.jpg)](https://www.youtube.com/watch?v=H1gqp3rjVXI)
 
 ### Schematic
 
